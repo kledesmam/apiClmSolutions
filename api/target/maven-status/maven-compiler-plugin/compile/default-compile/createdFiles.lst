@@ -1,0 +1,10 @@
+com\clmsolution\api\model\pojo\ValidateUserResponse.class
+com\clmsolution\api\model\pojo\ValidateUserData.class
+com\clmsolution\api\model\pojo\UserRequest.class
+com\clmsolution\api\model\pojo\LoginRequest.class
+com\clmsolution\api\repository\UserRepository.class
+com\clmsolution\api\model\User.class
+com\clmsolution\api\ApiApplication.class
+com\clmsolution\api\controller\UserController.class
+com\clmsolution\api\model\pojo\LoginUserData.class
+com\clmsolution\api\model\pojo\LoginResponse.class
